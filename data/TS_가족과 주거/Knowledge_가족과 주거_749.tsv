@@ -1,0 +1,21 @@
+id	utterance_id	role	text	search_query	search_URL	reference_date	terminate	regDate	updDate
+BK22016516	1	질문자	강아지 산책을 갔다가 맹견으로 보이는 개가 우리 강아지를 물려고 해서 놀랐어. 다행이 피해서 안다쳤지만 말이야.				0	2022-10-18 12:26:47	2022-10-18 13:14:24
+BK22016516	2	전문가	무서웠겠다 맹견 허가제가 빨리 시행되어야 할텐데.				0	2022-10-18 12:26:47	2022-10-18 13:14:24
+BK22016516	3	질문자	맹견 허가제는 언제부터 시행되는데?				0	2022-10-18 12:26:47	2022-10-18 13:14:24
+BK22016516	4	전문가	맹견을 수입하거나 키우고 싶으면 2024년 4월 27일부터 시도지사의 허가를 받아야 해.	맹견 허가제	https://www.chosun.com/economy/economy_general/2022/08/10/AHVAK6JZENDH7PRTQAHQ7RWTUM/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news	2022/08/10	0	2022-10-18 12:26:47	2022-10-18 13:14:24
+BK22016516	5	질문자	맹견허가제의 시행 배경은 역시 개물림 사고 때문일까?				0	2022-10-18 12:26:47	2022-10-18 13:14:24
+BK22016516	6	전문가	맞아. 작년에 개물림 사고가 2,197건이였어. 맹견을 키우는 사람들의 소홀한 관리로 치명적인 개물림 사고가 발생하는 것을 막기 위해서 맹견 허가제가 생겼지.	맹견 개물림 사고	https://www.chosun.com/economy/economy_general/2022/08/10/AHVAK6JZENDH7PRTQAHQ7RWTUM/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news	2022/08/10	0	2022-10-18 12:26:47	2022-10-18 13:14:24
+BK22016516	7	질문자	생각보다 개물림 사고가 많았구나. 맹견으로 분류되는 종들은 어떤 게 있어?				0	2022-10-18 12:26:47	2022-10-18 13:14:24
+BK22016516	8	전문가	현행법상 맹견은 도사견, 아메리칸 핏불테리어, 아메리칸 스태퍼드셔 테리어, 스태퍼드셔 불테리어, 로트바일러 등 5종류야.	현행법상 맹견	https://www.chosun.com/economy/economy_general/2022/08/10/AHVAK6JZENDH7PRTQAHQ7RWTUM/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news	2022/08/10	0	2022-10-18 12:26:47	2022-10-18 13:14:24
+BK22016516	9	질문자	맹견이 아니어도 사나운 개가 있을 수도 있잖아. 그런 개들은 어떻게 관리 돼?				0	2022-10-18 12:26:47	2022-10-18 13:14:24
+BK22016516	10	전문가	맹견에 포함되지 않는 경우엔 시도지사가 맹견으로 지정할 수 있어. 사람 또는 동물을 공격한 개가 이에 해당되는데 개가 맹견으로 결정되면 사육 허가를 받아야 해.	맹견 사육허가	https://www.chosun.com/economy/economy_general/2022/08/10/AHVAK6JZENDH7PRTQAHQ7RWTUM/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news	2022/08/10	0	2022-10-18 12:26:47	2022-10-18 13:14:24
+BK22016516	11	질문자	맹견을 키우는 걸 허가받은 견주들이 필수로 해야 하는 건 뭐야?				0	2022-10-18 12:26:48	2022-10-18 13:14:24
+BK22016516	12	전문가	책임보험에 꼭 가입해야 해. 개 물림 사고에 대비해 배상을 지원해줘.	개물림 사고 책임보험	https://www.chosun.com/economy/economy_general/2022/08/10/AHVAK6JZENDH7PRTQAHQ7RWTUM/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news	2022/08/10	0	2022-10-18 12:26:48	2022-10-18 13:14:24
+BK22016516	13	질문자	책임보험이 있었구나. 맹견을 키우는 사람이 가입하지 않으면 어떻게 돼?				0	2022-10-18 12:26:48	2022-10-18 13:14:24
+BK22016516	14	전문가	맹견을 키우는 사람이 책임보험 가입 의무를 지키지 않으면 300만 원 이하의 과태료를 부과해.	맹견 등록	https://go.seoul.co.kr/news/newsView.php?id=20200115012023&wlog_tag3=naver	2020/01/15	0	2022-10-18 12:26:48	2022-10-18 13:14:24
+BK22016516	15	질문자	허가받은 맹견이 집에서 새끼를 낳으면 분양할 수도 있지 않아?				0	2022-10-18 12:26:48	2022-10-18 13:14:24
+BK22016516	16	전문가	집에서 새끼를 낳아 분양할 수 없어. 맹견은 정부의 관리를 벗어나면 안되기 때문에 중성화 수술이 의무화 돼.	맹견 정부관리	https://www.chosun.com/economy/economy_general/2022/08/10/AHVAK6JZENDH7PRTQAHQ7RWTUM/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news	2022/08/10	0	2022-10-18 12:26:48	2022-10-18 13:14:24
+BK22016516	17	질문자	번식도 안되는구나. 이미 키우고 있는 사람들이라면 어떻게 해?				0	2022-10-18 12:26:48	2022-10-18 13:14:24
+BK22016516	18	전문가	맹견을 기르는 사람은 맹견 허가제 시행 후 6개월 이내에 사육 허가를 받아야 해. 이를 어기면 1년 이하 징역 또는 1,000만 원 이하의 벌금을 내야 해.	맹견 사육허가 위반시 벌금	https://www.chosun.com/economy/economy_general/2022/08/10/AHVAK6JZENDH7PRTQAHQ7RWTUM/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news	2022/08/10	0	2022-10-18 12:26:48	2022-10-18 13:14:24
+BK22016516	19	질문자	맹견제도를 통해서 강아지나 사람 모두 개물림 사고 없이 안심하고 다닐 수 있었으면 좋겠다.				0	2022-10-18 12:26:48	2022-10-18 13:14:24
+BK22016516	20	전문가	그러게 잘 관리되서 효과가 있었으면 해.				1	2022-10-18 12:26:48	2022-10-18 13:14:24
